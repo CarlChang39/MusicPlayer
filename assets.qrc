@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/download.png</file>
+        <file>icon/folder.png</file>
+        <file>icon/lastSong.png</file>
+        <file>icon/more.png</file>
+        <file>icon/nextSong.png</file>
+        <file>icon/pause.png</file>
+        <file>icon/playlist.png</file>
+        <file>icon/settings.png</file>
+        <file>icon/start.png</file>
+        <file>icon/volume.png</file>
+        <file>icon/volumeOff.png</file>
+    </qresource>
+</RCC>
